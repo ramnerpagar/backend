@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "Hash": "J+8sf7KdVH6d1+vcEVibMjhrhpY7tbi//lD0q4FGK8A=",
+  "Source": "Reports_Data",
+  "BasePath": "_content/Reports_Data",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\b\\PETROL_MANAGEMENT_SYSTEM-developement (2)\\PETROL_MANAGEMENT_SYSTEM-developement\\Pump_Data\\Pump_Data.csproj",
+      "Version": 2,
+      "Source": "Pump_Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "D:\\b\\PETROL_MANAGEMENT_SYSTEM-developement (2)\\PETROL_MANAGEMENT_SYSTEM-developement\\Sales_Data\\Sales_Data.csproj",
+      "Version": 2,
+      "Source": "Sales_Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "D:\\b\\PETROL_MANAGEMENT_SYSTEM-developement (2)\\PETROL_MANAGEMENT_SYSTEM-developement\\Staff_Data\\Staff_Data.csproj",
+      "Version": 2,
+      "Source": "Staff_Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
